@@ -11,7 +11,7 @@ Official Repo of Hackathon on ML, AWS, Blockchain
   <tr>
     <td>1.</td>
     <td>Diabetes Prediction System using Supervised ML</td>
-    <td></td>
+    <td><a href="https://github.com/maddydevgits/Dibetes-prediction-with-different-ml-approches">Repo</a></td>
   </tr>
   <tr>
     <td>2.</td>
