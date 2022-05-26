@@ -21,7 +21,7 @@ Official Repo of Hackathon on ML, AWS, Blockchain
   <tr>
     <td>3.</td>
     <td>Credit Card Fraud Detection</td>
-    <td></td>
+    <td><a href="https://github.com/maddydevgits/credit-card-fraud-detection-system">Repo</a></td>
   </tr>
   <tr>
     <td>4.</td>
