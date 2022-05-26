@@ -66,6 +66,6 @@ Official Repo of Hackathon on ML, AWS, Blockchain
   <tr>
     <td>12.</td>
     <td>Fruit Rippen Detection</td>
-    <td></td>
+    <td><a href="https://github.com/maddydevgits/banana-fruit-ripening-system">Repo</a></td>
   </tr>
 </table>
