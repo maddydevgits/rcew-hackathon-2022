@@ -36,7 +36,7 @@ Official Repo of Hackathon on ML, AWS, Blockchain
   <tr>
     <td>6.</td>
     <td>Object Detection for Blind</td>
-    <td></td>
+    <td><a href="https://github.com/maddydevgits/object-detection-yolov3">Repo</a></td>
   </tr>
   <tr>
     <td>7.</td>
