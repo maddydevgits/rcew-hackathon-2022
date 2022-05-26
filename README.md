@@ -51,7 +51,7 @@ Official Repo of Hackathon on ML, AWS, Blockchain
   <tr>
     <td>9.</td>
     <td>Hand Gesture Controlled Volume Control</td>
-    <td></td>
+    <td><a href="https://github.com/maddydevgits/hand-finger-tracking-music-player-control">Repo</a></td>
   </tr>
   <tr>
     <td>10.</td>
