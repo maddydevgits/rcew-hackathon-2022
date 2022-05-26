@@ -16,7 +16,7 @@ Official Repo of Hackathon on ML, AWS, Blockchain
   <tr>
     <td>2.</td>
     <td>Email Spam Detection</td>
-    <td></td>
+    <td><a href="https://github.com/maddydevgits/email-spam-detection">Repo</a></td>
   </tr>
   <tr>
     <td>3.</td>
