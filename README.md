@@ -60,8 +60,8 @@ Official Repo of Hackathon on ML, AWS, Blockchain
   </tr>
   <tr>
     <td>11.</td>
-    <td>Weapon Detection in CCTV Footage</td>
-    <td></td>
+    <td>Tourism Management System</td>
+    <td><a href="https://github.com/maddydevgits/tourism-management-system">Repo</a></td>
   </tr>
   <tr>
     <td>12.</td>
