@@ -56,7 +56,7 @@ Official Repo of Hackathon on ML, AWS, Blockchain
   <tr>
     <td>10.</td>
     <td>Animals Detection in Fields</td>
-    <td></td>
+    <td><a href="https://github.com/maddydevgits/animals-detection-aws-deployment">Repo</a></td>
   </tr>
   <tr>
     <td>11.</td>
