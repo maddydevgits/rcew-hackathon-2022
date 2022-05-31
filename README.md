@@ -129,7 +129,7 @@ Official Repo of Hackathon on ML, AWS, Blockchain
     <td>1.</td>
     <td>Team Schuri</td>
     <td>Complaint Tracking System</td>
-    <td></td>
+    <td><a href="https://github.com/maddydevgits/complaint-tracking-system">Repo</a></td>
   </tr
   <tr>
     <td>2.</td>
