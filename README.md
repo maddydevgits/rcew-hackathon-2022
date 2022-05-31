@@ -165,7 +165,7 @@ Official Repo of Hackathon on ML, AWS, Blockchain
     <td>7.</td>
     <td>Team Tech Divas</td>
     <td>Pet Shop Dapp</td>
-    <td></td>
+    <td><a href="https://github.com/maddydevgits/petshop-dapp">Repo</a></td>
   </tr>
   <tr>
     <td>8.</td>
