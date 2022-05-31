@@ -69,3 +69,61 @@ Official Repo of Hackathon on ML, AWS, Blockchain
     <td><a href="https://github.com/maddydevgits/banana-fruit-ripening-system">Repo</a></td>
   </tr>
 </table>
+
+# Blockchain Demo
+<table>
+  <tr>
+    <th>S.No</th>
+    <th>Team Name</th>
+    <th>Project Name</th>
+    <th>Solution Repo</th>
+  </tr>
+  <tr>
+    <td>1.</td>
+    <td>Team Schuri</td>
+    <td>Complaint Tracking System</td>
+    <td></td>
+  </tr
+  <tr>
+    <td>2.</td>
+    <td>Team Electronics</td>
+    <td>Car Pooling using Blockchain</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3.</td>
+    <td>Team Electronic Rockers</td>
+    <td>Blockchain Money Wallet</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4.</td>
+    <td>Team Mad Creators</td>
+    <td>Government Tender Allocation using Blockchain</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>5.</td>
+    <td>Team Interpreter</td>
+    <td>Land Registration using Blockchain</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>6.</td>
+    <td>Team Increation</td>
+    <td>Fake Product Identification using Blockchain</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>7.</td>
+    <td>Team Tech Divas</td>
+    <td>Pet Shop Dapp</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>8.</td>
+    <td>Team Avengers</td>
+    <td>Agri Food Supply Chain</td>
+    <td></td>
+  </tr>
+</table>
