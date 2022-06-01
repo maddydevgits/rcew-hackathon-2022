@@ -77,7 +77,7 @@ Official Repo of Hackathon on ML, AWS, Blockchain
     <td>2.</td>
     <td>Team Electronics</td>
     <td>Traffic Lights Detection System</td>
-    <td></td>
+    <td><a href="https://github.com/maddydevgits/traffic-light-detector">Repo</a></td>
   </tr>
   <tr>
     <td>3.</td>
