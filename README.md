@@ -113,7 +113,7 @@ Official Repo of Hackathon on ML, AWS, Blockchain
     <td>8.</td>
     <td>Team Avengers</td>
     <td>Create a OCR based model</td>
-    <td></td>
+    <td><a href="https://github.com/maddydevgits/ocr-based-model-aws">Repo</a></td>
   </tr>
 </table>
 
