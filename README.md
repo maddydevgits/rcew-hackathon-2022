@@ -83,7 +83,7 @@ Official Repo of Hackathon on ML, AWS, Blockchain
     <td>3.</td>
     <td>Team Electronic Rockers</td>
     <td>Face Attendance System using AWS</td>
-    <td></td>
+    <td><a href="https://github.com/maddydevgits/face-attendance-system-aws">Repo</a></td>
   </tr>
   <tr>
     <td>4.</td>
