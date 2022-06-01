@@ -101,7 +101,7 @@ Official Repo of Hackathon on ML, AWS, Blockchain
     <td>6.</td>
     <td>Team Increation</td>
     <td>Criminals Detection System</td>
-    <td></td>
+    <td><a href="https://github.com/maddydevgits/criminals-detection-aws">Repo</a></td>
   </tr>
   <tr>
     <td>7.</td>
