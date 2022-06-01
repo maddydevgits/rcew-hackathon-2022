@@ -89,7 +89,7 @@ Official Repo of Hackathon on ML, AWS, Blockchain
     <td>4.</td>
     <td>Team Mad Creators</td>
     <td>Celebrity Detection System</td>
-    <td></td>
+    <td><a href="https://github.com/maddydevgits/celebrity-face-recognition">Repo</a></td>
   </tr>
   <tr>
     <td>5.</td>
