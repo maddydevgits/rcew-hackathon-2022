@@ -95,7 +95,7 @@ Official Repo of Hackathon on ML, AWS, Blockchain
     <td>5.</td>
     <td>Team Interpreter</td>
     <td>Deploy a basic Machine Learning Model on AWS</td>
-    <td></td>
+    <td><a href="https://github.com/maddydevgits/crop-recommendation-system">Repo</a></td>
   </tr>
   <tr>
     <td>6.</td>
