@@ -112,7 +112,7 @@ Official Repo of Hackathon on ML, AWS, Blockchain
   <tr>
     <td>8.</td>
     <td>Team Avengers</td>
-    <td>Create a OCR based moel for blind</td>
+    <td>Create a OCR based model</td>
     <td></td>
   </tr>
 </table>
