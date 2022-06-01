@@ -107,7 +107,7 @@ Official Repo of Hackathon on ML, AWS, Blockchain
     <td>7.</td>
     <td>Team Tech Divas</td>
     <td>Create a basic Serverless App</td>
-    <td></td>
+    <td><a href="https://github.com/maddydevgits/serverless-app">Repo</a></td>
   </tr>
   <tr>
     <td>8.</td>
