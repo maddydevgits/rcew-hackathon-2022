@@ -70,7 +70,7 @@ Official Repo of Hackathon on ML, AWS, Blockchain
   <tr>
     <td>1.</td>
     <td>Team Schuri</td>
-    <td>Deploy an e-commerce website on AWS</td>
+    <td>Document Management System on AWS</td>
     <td></td>
   </tr
   <tr>
