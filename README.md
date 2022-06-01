@@ -71,7 +71,7 @@ Official Repo of Hackathon on ML, AWS, Blockchain
     <td>1.</td>
     <td>Team Schuri</td>
     <td>Document Management System on AWS</td>
-    <td></td>
+    <td><a href="https://github.com/maddydevgits/document-management-system.git">Repo</a></td>
   </tr
   <tr>
     <td>2.</td>
