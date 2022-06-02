@@ -19,7 +19,7 @@ Official Repo of Hackathon on ML, AWS, Blockchain
     <td>2.</td>
     <td>Team Electronics</td>
     <td>Yoga Posture Detector</td>
-    <td></td>
+    <td><a href="https://github.com/maddydevgits/yoga-pose-estimation">Repo</a></td>
   </tr>
   <tr>
     <td>3.</td>
@@ -43,13 +43,13 @@ Official Repo of Hackathon on ML, AWS, Blockchain
     <td>6.</td>
     <td>Team Increation</td>
     <td>Face Mask Detection</td>
-    <td></td>
+    <td><a href="https://github.com/maddydevgits/face-mask-detector.git">Repo</a></td>
   </tr>
   <tr>
     <td>7.</td>
     <td>Team Tech Divas</td>
     <td>Credit Card Fraud Detection</td>
-    <td></td>
+    <td><a href="https://github.com/maddydevgits/credit-card-fraud-detection-system.git">Repo</a></td>
   </tr>
   <tr>
     <td>8.</td>
