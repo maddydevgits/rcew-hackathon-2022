@@ -13,7 +13,7 @@ Official Repo of Hackathon on ML, AWS, Blockchain
     <td>1.</td>
     <td>Team Schuri</td>
     <td>Email Spam Detection</td>
-    <td></td>
+    <td><a href="https://github.com/maddydevgits/email-spam-detection">Repo</a></td>
   </tr
   <tr>
     <td>2.</td>
@@ -25,19 +25,19 @@ Official Repo of Hackathon on ML, AWS, Blockchain
     <td>3.</td>
     <td>Team Electronic Rockers</td>
     <td>Social Distance Detector</td>
-    <td></td>
+    <td><a href="https://github.com/maddydevgits/sacet-live-social-distance-detection">Repo</a></td>
   </tr>
   <tr>
     <td>4.</td>
     <td>Team Mad Creators</td>
     <td>Diabetes Prediction System using Supervised ML</td>
-    <td></td>
+    <td><a href="https://github.com/maddydevgits/Dibetes-prediction-with-different-ml-approches">Repo</a></td>
   </tr>
   <tr>
     <td>5.</td>
     <td>Team Interpreter</td>
     <td>Object Detection for Blind</td>
-    <td></td>
+    <td><a href="https://github.com/maddydevgits/object-detection-yolov3">Repo</a></td>
   </tr>
   <tr>
     <td>6.</td>
