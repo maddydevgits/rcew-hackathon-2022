@@ -55,7 +55,7 @@ Official Repo of Hackathon on ML, AWS, Blockchain
     <td>8.</td>
     <td>Team Avengers</td>
     <td>Sign Language Translator</td>
-    <td></td>
+    <td><a href="https://github.com/maddydevgits/sign-language-translator-mediapipe.git">Repo</a></td>
   </tr>
 </table>
 
